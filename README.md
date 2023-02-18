@@ -2,7 +2,10 @@
 
 This is currently a WIP. Here is a demonstration:
 
-https://user-images.githubusercontent.com/60311384/219880684-c0804de4-490c-4686-be07-45855c36ab8c.mov
+https://user-images.githubusercontent.com/60311384/219884496-c34d8cd6-da17-46e0-a3b4-31460535eb18.mov
+
+
+The data is gathered through template matching. 
 
 My current algorithm consists of 
 
