@@ -2,7 +2,7 @@
 
 This is currently a WIP. Here is a demonstration:
 
-<video src="minwaqwwpwe2.mov" width="800" />
+minwaqwwpwe2.mov
 
 The data is gathered through template matching.
 
