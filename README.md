@@ -2,9 +2,7 @@
 
 This is currently a WIP. Here is a demonstration:
 
-[![video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=f35DtX0sw0U&ab_channel=TarioYou)
-
-https://github.com/tario-you/minesweeper_bot/blob/main/minwaqwwpwe2.mov
+[![video](thumbnail.png)](https://www.youtube.com/watch?v=f35DtX0sw0U&ab_channel=TarioYou)
 
 The data is gathered through template matching.
 
