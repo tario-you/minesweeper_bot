@@ -2,7 +2,7 @@
 
 This is currently a WIP. Here is a demonstration:
 
-![](minwaqwwpwe2.mov)
+https://github.com/tario-you/minesweeper_bot/blob/main/minwaqwwpwe2.mov
 
 The data is gathered through template matching.
 
